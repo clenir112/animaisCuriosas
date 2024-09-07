@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(216, 182, 159);
+
+
+}
+
+header h1 {
+    font-size: 25px;
+    margin-left: 770px;
+    margin-top: 30px;
+}
+
+header h2 {
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 600px;
+  
+}
+
+
+
+.imagem {
+    width: 20px;
+    margin-top: -320px;
+}
+
+#conteudo h2 {
+    margin-top: 300px;
+    margin-left: 400px;
+    
+  }
+
+#conteudo p {
+    margin-top: 20px;
+    margin-left: 180px;
+  }
+
+ 
+ 
+
+.container-button   {
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 25px ;
+    background-color: white;
+    margin-left: 700px;
+    margin-top: 150px;
+    background-color: rgb(185, 99, 171);
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-button input[type="text"] {
+    width: 102%; /* ajuste o valor de acordo com a necessidade */
+    height: 40px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+}
+
+.container-button button {
+    width: 40%; /* ajuste o valor de acordo com a necessidade */
+    height: 40px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(185, 99, 171);
+    cursor: pointer; /* adicionei essa propriedade para melhorar a usabilidade */
+}
+
+
+ 
+#conteudo {
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 400px;
+    font-size: 18px;
+}
+
+
+
+.sugestao {
+    float: right;
+    margin-top: 545px;
+    margin-right: 90px;
+}
+
+.saibamais {
+    margin-left: 720px;
+    color: black;
+    margin-top: 10px;
+    
+    
+}
+
+.footer {
+    margin-left: 720px;
+    font-size: 17px;
+    margin-top: -70px;
+}
